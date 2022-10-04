@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=37a6aa51_002Db846_002D4fec_002D8958_002D1d9efeb9b915/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="getBasket_getBasketWithInvalidBasketId_returnNullReferenceException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C333144C-7E78-407F-B9D7-3803BFCE43E2::net6.0::METRO.digital.Test.BasketServicesTest.getBasket_getBasketWithInvalidBasketId_returnNullReferenceException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C333144C-7E78-407F-B9D7-3803BFCE43E2::net6.0::METRO.digital.Test.BasketServicesTest.getBasket_getBasketWithValidBasketId_returnBasketReadDto&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C333144C-7E78-407F-B9D7-3803BFCE43E2::net6.0::METRO.digital.Test.BasketServicesTest.createBasket_createBasketWithValidData_returnBasketId&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C333144C-7E78-407F-B9D7-3803BFCE43E2::net6.0::METRO.digital.Test.BasketServicesTest.updateBasket_updateBasketWithInvalidBasketId_returnNullReferenceException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C333144C-7E78-407F-B9D7-3803BFCE43E2::net6.0::METRO.digital.Test.BasketServicesTest.updateBasket_updateBasketWithValidBasketId_returnNullReferenceException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C333144C-7E78-407F-B9D7-3803BFCE43E2::net6.0::METRO.digital.Test.ArtIcleServiceTest.createArtIcle_createArtIcleWithInvalidBasketId_returnNullReferenceException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C333144C-7E78-407F-B9D7-3803BFCE43E2::net6.0::METRO.digital.Test.ArtIcleServiceTest.createArtIcle_createArtIcleWithValidBasketId_returnNullReferenceException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C333144C-7E78-407F-B9D7-3803BFCE43E2::net6.0::METRO.digital.Test.ArtIcleServiceTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
